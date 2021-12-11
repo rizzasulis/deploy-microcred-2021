@@ -8,5 +8,3 @@ yfinance
 plotly
 fbprophet
 Prophet
-fbprophet.plot
-graph_objs
