@@ -1,6 +1,5 @@
 streamlit
 datetime
-date
 yfinance
 libpython
 pystan
