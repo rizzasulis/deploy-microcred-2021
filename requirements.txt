@@ -16,4 +16,4 @@ yfinance
 fbprophet
 plotly
 datetime
-python>=3.10
+python==3.9.9
