@@ -2,6 +2,7 @@ streamlit
 datetime
 yfinance
 libpython
+localpip
 pystan
 fbprophet
 Prophet
