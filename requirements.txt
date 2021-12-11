@@ -1,9 +1,10 @@
-streamlit
-datetime
+Cython
+numpy
+pandas
+matplotlib
+convertdate
+pystan==2.19.1.1
 yfinance
-libpython
-localpip
-pystan
-fbprophet
-Prophet
+streamlit
 plotly
+fbprophet
