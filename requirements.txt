@@ -2,6 +2,7 @@ Cython
 numpy
 pandas
 matplotlib
+datetime
 convertdate
 pystan==2.19.1.1
 yfinance
