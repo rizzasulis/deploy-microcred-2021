@@ -6,6 +6,5 @@ scipy
 streamlit
 yfinance
 plotly
-fbprophet
 Prophet
-pystan
+pystan==2.19.1.1
