@@ -8,3 +8,4 @@ yfinance
 plotly
 fbprophet
 Prophet
+pystan
