@@ -6,4 +6,3 @@ numpy
 matplotlib
 pystan
 fbprophet
-Prophet
