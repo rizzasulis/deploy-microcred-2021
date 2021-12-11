@@ -12,3 +12,8 @@ pandas>=0.19
 flasgger==0.9.4
 streamlit
 seaborn
+yfinance
+fbprophet
+plotly
+datetime
+python>=3.10
