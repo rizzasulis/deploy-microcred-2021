@@ -5,4 +5,5 @@ libpython
 numpy
 matplotlib
 pystan
+Prophet
 fbprophet
