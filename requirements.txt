@@ -1,9 +1,9 @@
-matplotlib
-numpy
-pandas
-datetime
-scipy
 streamlit
 yfinance
 plotly
+libpython
+numpy
+matplotlib
+pystan
+fbprophet
 Prophet
